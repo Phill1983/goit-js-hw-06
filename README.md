@@ -1,2 +1,2 @@
-# goit-js-hw-06
-HW 6 on JS
+# goit-js-hw-01
+My first HW on JavaScript modul
